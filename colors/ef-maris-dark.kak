@@ -21,7 +21,7 @@ declare-option str purple_bright 'rgb:cf90ff'
 declare-option str cyan 'rgb:2fd0db'
 declare-option str cyan_bright 'rgb:2fd0db'
 
-declare-option str bg_mode_line 'rgb:2f527b'
+declare-option str bg_mode_line 'rgb:276dab'
 declare-option str fg_mode_line 'rgb:ecf0ff'
 declare-option str cursor 'rgb:8fdfff'
 declare-option str bg_hl_line 'rgb:243242'
